@@ -2,7 +2,7 @@
 
 
 ### It' a simple quiz web app that build using HTML , CSS , JAVASCRIPT which contain 10 quiz questions . 
-#### Do Check it out - [DEMO LINKhttps://github.com/rayipudisan](dhya/webproject.git/), Click it , give quiz , get full score ✌️✌️
+#### Do Check it out - [DEMO LINKh[https://tourmaline-licorice-5ad326.netlify.app/](dhya/webproject.git/), Click it , give quiz , get full score ✌️✌️
 Don't forget to leave ⭐ to the repository and contribute....!!!!!
 
 
